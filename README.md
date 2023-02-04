@@ -2,11 +2,11 @@
 
 <div>
 
-<img src="./img/P-waifu.jpg" width="300" align="right" />
+<img src="./img/profil.jpg" width="300" align="right" />
 
 <br/>
 
-<img src="./img/A-waifu.jpeg" width="500" />
+<img src="./img/about.jpeg" width="500" />
 
 <br/>
 
