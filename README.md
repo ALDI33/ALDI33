@@ -1,11 +1,11 @@
 
 <div>
 
-<img src="../profil.jpg" width="300" align="right" />
+<img src="./img/profil.png" width="300" align="right" />
 
 <br/>
 
-<img src="..about.jpeg" width="500" />
+<img src="./img/about.png" width="500" />
 
 <br/>
 
