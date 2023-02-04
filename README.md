@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ALDI33&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ALDI33/ALDI33#gh-dark-mode-only)
+[![DARK THEME](https://github-readme-stats.vercel.app/api?username=ALDI33&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ALDI33/ALDI33#gh-dark-mode-only)
 
 
 
