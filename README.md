@@ -19,15 +19,15 @@
 
 
 <p align="center">
-  <a href="https://github.com/ZuxyGanz"><img src="https://github-readme-stats.vercel.app/api?username=ZuxyGanz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/ALDI33"><img src="https://github-readme-stats.vercel.app/api?username=xZiyy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ZuxyGanz"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZuxyGanz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/ALDI33"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xZiyy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZuxyGanz&theme=onedark" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xZiyy&theme=onedark" /></a>
 </p>
 
 <p align="center">
